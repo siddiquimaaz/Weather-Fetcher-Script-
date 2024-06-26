@@ -18,7 +18,7 @@ Welcome to the Weather Fetcher Script! This bash script is your terminal-based s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-fetcher-script.git
+   git clone https://github.com/siddiquimaaz/weather-fetcher-script.git
 2. Navigate to the script directory:
    cd weather-fetcher-script
 3. Ensure the script is executable
